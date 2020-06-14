@@ -1,0 +1,40 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(235, 224, 224);
+}
+
+.li {
+  float: left;
+}
+
+.lia {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 2% 6%;
+  text-decoration: none;
+  background-color: rgb(200, 236, 158);
+}
+.mr-auto {
+  display: inline-block;
+  width: 100%;
+  padding: 2%, 2%, 2%, 2%;
+  margin: 2%, 2%, 2%, 2%;
+  border: 2%, 2%, 2%, 2%;
+}
+
+/* Change the link color to #111 (black) on hover */
+.lib:hover {
+  background-color: #f1f1f1;
+}
